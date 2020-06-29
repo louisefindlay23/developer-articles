@@ -25,9 +25,18 @@ On your first login, since you used password authentication, it will prompt you 
 ## Deploying Your NodeJS Web App
 First, you’ll need to copy the code for your web app to your Droplet. If you’re using source control such as Git *Link to Section article on Git* then it’s a simple as installing git using `apt-get install git -y`  and then using the git clone command  `git clone (link to your repository)` and then add the link to your repository at the end.
 
-Second, you’ll need to install the node modules (dependencies) for your web app. If you installed all your modules with `-save` at the end which saves them to the package.json file then just type `npm install` and press enter. 
+Second, you’ll need to install Node. Type:
+
+```bash
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+
+Third, you’ll need to install the node modules (dependencies) for your web app. If you installed all your modules with `-save` at the end which saves them to the package.json file then just type `npm install` and press enter. 
 
 If not, when you run `npm start`  an error will appear with module not found. Type `npm install (module name)`  and press enter and then try running `npm start`  again. Repeat the process until the error disappears. 
+
+If you need to install MongoDB (if you’ve created a MongoDB database), then follow these [instructions](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/#install-mongodb-community-edition).
 
 Finally, type `npm start`  to start your web app. Now that your web app is running, in a new browser tab, type the IP Address of your droplet (found in the email that DigitalOcean sent when you created the droplet) followed by a colon and the port your app runs on. For example, `167.172.54.51:8080`.
 
