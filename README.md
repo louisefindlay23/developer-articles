@@ -11,5 +11,5 @@ I also store the original Markdown files.
 | How to Create a Professional Email - Setting up GSuite | [Section](https://www.section.io/engineering-education/creating-professional-email)        | 
 | Converting a Static Site to a Dynamic NodeJS Web App   | [Section](https://www.section.io/engineering-education/static-site-dynamic-nodejs-web-app) | 
 | Deploying Your First NodeJS Web App                    | [Section](https://www.section.io/engineering-education/deploying-nodejs-web-app)           |                                                                                                                                                                                                                                  
-| Templating Your Static Site: Part 1                    | In Review                                                                                  |
+| Templating Your Static Site: Part 1                    | [Section](https://www.section.io/engineering-education/templating-your-static-site)                                                                                 
 | A Simple Guide to Using APIs                           | In Review                                                                                  |  
