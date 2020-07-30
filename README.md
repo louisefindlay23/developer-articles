@@ -13,4 +13,4 @@ I also store the original Markdown files.
 | Deploying Your First NodeJS Web App                    | [Section](https://www.section.io/engineering-education/deploying-nodejs-web-app)           |                                                                                                                                                                                                                                  
 | Templating Your Static Site: Part 1                    | [Section](https://www.section.io/engineering-education/templating-your-static-site)                                                                                 
 | How to Develop and Deploy Your First Full-Stack Web App | [FreeCodeCamp](https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app)
-| A Simple Guide to Using APIs                           | In Review                                                                                  |
+| A Simple Guide to Using APIs                           | [Section](https://www.section.io/engineering-education/simple-guide-to-using-apis-nodejs)                                                                            |
