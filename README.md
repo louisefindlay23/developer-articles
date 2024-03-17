@@ -4,7 +4,7 @@ A list of all my technical guides and tutorials with links to where they're publ
 
 ## Recent
 
-| Title  | Published  |
+| Title | Published |
 |---|---|
 | The Awesome 1Password Developer Tools Revolutionising SSH Keys | [Medium](https://medium.com/gitconnected/the-awesome-1password-developer-tool-revolutionising-ssh-keys-4fb40f75cf99)
 | The Awesome New 1Password Feature for Developers to Secure and Manage Your Secrets | [Medium](https://medium.com/gitconnected/the-awesome-new-1password-feature-for-developers-to-secure-and-manage-your-secrets-b583e47e8693)
@@ -18,10 +18,16 @@ A list of all my technical guides and tutorials with links to where they're publ
 
 ## Archived
 
-| Title  | Location  | Reason for Archive |
+| Title | Location | Reason for Archive |
 |---|---|---|
 | Templating Your Static Site: Part 1 | [Section](https://github.com/section-engineering-education/engineering-education/blob/master/content/articles/templating-your-static-site/index.md) | Uses an older version of Eleventy
 | Getting to Grips with APIs: Part 2 | [Section](https://github.com/section-engineering-education/engineering-education/blob/master/content/articles/simple-guide-to-using-apis-part2/index.md) | Uses an API that no longer issues API keys
 | A Simple Guide to Using APIs | [Section](https://github.com/section-engineering-education/engineering-education/blob/master/content/articles/simple-guide-to-using-apis-nodejs/index.md) | Uses an API that no longer issues API keys
 | Getting to Grips with Databases - Part 2 | [Section](https://github.com/section-engineering-education/engineering-education/blob/master/content/articles/working-with-databases-part2/index.md) | Uses an older version of MongoDB
 | Getting to Grips with Databases - Part 1 | [Medium](https://medium.com/@louisefindlay23/getting-to-grips-with-databases-part-1-14c377e845c5) | Uses an older version of MongoDB
+
+## Ideas
+
+| Title | Link |
+|---|---|
+| 1Password Git Commit Signing | [1Password Docs](https://developer.1password.com/docs/ssh/git-commit-signing/)
